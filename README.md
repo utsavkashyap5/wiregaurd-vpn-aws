@@ -15,7 +15,7 @@ A beginner-friendly project that demonstrates how to build a personal VPN using 
 - [x] Launch EC2 Instance
 - [x] Connect via SSH
 - [x] Install WireGuard
-- [ ] Generate Server Keys
+- [x] Generate Server Keys
 - [ ] Configure WireGuard Server
 - [ ] Enable IP Forwarding
 - [ ] Configure Firewall (NAT)
