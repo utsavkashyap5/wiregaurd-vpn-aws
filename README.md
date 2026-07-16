@@ -16,7 +16,7 @@ A beginner-friendly project that demonstrates how to build a personal VPN using 
 - [x] Connect via SSH
 - [x] Install WireGuard
 - [x] Generate Server Keys
-- [ ] Configure WireGuard Server
+- [x] Configure WireGuard Server
 - [ ] Enable IP Forwarding
 - [ ] Configure Firewall (NAT)
 - [ ] Configure Android Client
@@ -30,3 +30,5 @@ A beginner-friendly project that demonstrates how to build a personal VPN using 
 - Configure secure tunnels
 - Explore Linux networking
 - Deploy infrastructure on AWS
+
+
