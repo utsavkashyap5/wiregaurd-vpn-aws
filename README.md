@@ -17,6 +17,7 @@ A beginner-friendly project that demonstrates how to build a personal VPN using 
 - [x] Install WireGuard
 - [x] Generate Server Keys
 - [x] Configure WireGuard Server
+- [x] Start WireGuard Server
 - [ ] Enable IP Forwarding
 - [ ] Configure Firewall (NAT)
 - [ ] Configure Android Client
